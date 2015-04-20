@@ -20,10 +20,10 @@ void setup(){
 
 void loop(){
 	String msg = blue->read();
-	if(msg.length() > 1)
-		Serial.println(msg);
-		readMsg(msg);
-	delay(20);
+	if(msg.length() > 1) //check the length of the message
+		Serial.println(msg); //shows it on serial
+		readMsg(msg); //analyze the message
+	delay(20); //wait 20 ms
 }
 
 void callMethod(int cod, int arg1){
