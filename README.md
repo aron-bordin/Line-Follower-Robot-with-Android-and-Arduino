@@ -12,7 +12,7 @@ The tutorial is divided in 4 parts:
 
 [1 – Coding the Android Tutorial](https://bytedebugger.wordpress.com/2015/04/10/tutorial-1-line-follower-robot-with-android-and-arduino/)
 
-2 – Coding Arduino Tutorial
+[2 – Coding Arduino Tutorial](https://bytedebugger.wordpress.com/2015/04/20/tutorial-2-line-follower-robot-with-android-and-arduino/)
 
 3 – Android X Arduino Communication – Project finished
 
@@ -23,3 +23,6 @@ The full project will cost something around $60.
 
 ## Source code:
 [Tutorial 1](https://github.com/aron-bordin/Line-Follower-Robot-with-Android-and-Arduino/tree/part1)
+
+[Tutorial 2](https://github.com/aron-bordin/Line-Follower-Robot-with-Android-and-Arduino/tree/part2)
+
