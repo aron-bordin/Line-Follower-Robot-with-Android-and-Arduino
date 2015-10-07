@@ -14,7 +14,7 @@
     You should have received a copy of the GNU General Public License
     along with Timótheo.  If not, see <http://www.gnu.org/licenses/>.
 */
-package com.wordpress.bytedebugger.timotheo;
+package com.rhesoft.timotheo;
 
 import android.app.Activity;
 import android.hardware.Camera;
@@ -22,6 +22,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
+
+import com.rhesoft.timotheo.CameraView;
 
 
 public class MainActivity extends Activity implements View.OnClickListener{

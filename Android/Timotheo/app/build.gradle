@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.wordpress.bytedebugger.timotheo"
+        applicationId "com.rhesoft.timotheo"
         minSdkVersion 9
         targetSdkVersion 22
         versionCode 1

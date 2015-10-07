@@ -15,7 +15,7 @@
     along with Timótheo.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-package com.wordpress.bytedebugger.timotheo;
+package com.rhesoft.timotheo;
 
 import android.content.Context;
 import android.graphics.Color;
